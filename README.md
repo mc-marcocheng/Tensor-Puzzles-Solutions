@@ -1,3 +1,10 @@
+# Tensor Puzzles Solutions
+
+This repo keeps my [solutions](./Tensor_Puzzlers.ipynb) to the amazing [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles).
+
+Please feel free to open an issue if you have a better/shorter solution to each of these puzzles!
+
+
 # Tensor Puzzles
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp) (with Marcos Treviso)
 
